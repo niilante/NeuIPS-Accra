@@ -1,6 +1,9 @@
 ## Welcome to NeuIPS Accra
-
 NeuIPS Accra is a group for all people from walks of life who have interest in making meaningful impact to the Accra and the world at large
+
+The target population are both males and females, techies are also welcomed and to wrap up, anyone with interest is also welcomed
+
+The events will basically be about artificial intelligence, machine learning, software engineering and many more
 
 ### Event Updates
 
